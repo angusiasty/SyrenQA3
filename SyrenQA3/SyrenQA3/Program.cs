@@ -10,6 +10,8 @@ namespace SyrenQA3
 	{
 		static void Main(string[] args)
 		{
+
+			Console.ReadLine();
 		}
 	}
 }
