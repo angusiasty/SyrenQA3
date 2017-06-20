@@ -9,7 +9,7 @@ namespace SyrenQA3.Loops
 {
 	public class ForEachLoop
 	{
-		public static void ListPrimeNumbers(int checkUpTo)
+		public void ListPrimeNumbers(int checkUpTo)
 		{
 			int numberToCheck;
 			List<int> primeNumbers = new List<int> { 2 };
